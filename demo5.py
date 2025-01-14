@@ -2,7 +2,7 @@ from selenium.webdriver import Chrome
 from selenium.webdriver.common.action_chains import ActionChains
 driver=Chrome()
 driver.get("https://mypustak.in/")
-driver.maximize_window()
+driver.maxyhhhbnbnbnbbbnbnbnbnbbnbnbnbnbnbnbbimize_window()
 act=ActionChains(driver)
 act.move_to_element(xpath)
 
